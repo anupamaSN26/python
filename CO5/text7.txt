@@ -1,0 +1,4 @@
+2.Its design philosophy emphasizes code readability with the use
+4.Python is dynamically-typed  garbage-collected.
+6.including structured (particularly procedural)
+8.It often described  a "batteries included" language

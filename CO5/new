@@ -1,0 +1,11 @@
+fn=open("newfile5.txt",'w')
+fn.write("1.python is an amazing language.\n2.It's simple.\n3.object oriented programming language")
+fn.close()
+
+fn1=open("newfile5.txt",'r')
+s=fn1.readlines()
+print(s)
+  
+for x in range(0,len(s)):
+    print(s[x])
+fn1.close()    

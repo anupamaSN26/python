@@ -1,0 +1,2 @@
+fn=open("newfiles.txt",'w')
+fn.write("1.python is a amazing programming language.\n2.It's simple.\n3.object oriented programming language.")
